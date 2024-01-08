@@ -1,0 +1,34 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.banner-title {
+  background: url(../resources/img.png) no-repeat 0 0 /100% 100%;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  width: auto;
+}
+.banner-titls {
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.banner-span {
+  color: hsl(260, 87%, 31%);
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400px;
+  display: inline;
+  margin-bottom: 26px;
+}
+.banner-span-one {
+  color: hsl(260, 87%, 31%);
+  font-family: Merriweather;
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 65px;
+}
